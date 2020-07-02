@@ -33,11 +33,6 @@ To `git-add` files, type ctrl-g ctrl-a (`\cg\ca`).
 `GIT_ADD_KEYBIND` is the key binding to add selected files by an interactive filter tool.
 It is defaulted to `\cg\ca` (ctrl-g ctrl-a).
 
-### `GIT_ADD_QUERY_OPTION`
-
-`GIT_ADD_QUERY_OPTION` is the fzf option used git_add_keybind.fish.
-It is defaulted to `--query`.
-
 
 [fzf]: https://github.com/junegunn/fzf
 [fresco]: https://github.com/masa0x80/fresco
